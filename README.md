@@ -2,8 +2,12 @@
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
+<<<<<<< HEAD
 You can play the game at:
 https://yummytree.github.io/github-games/
+=======
+You can play the game at: https://lhalley.github.io/github-games/
+>>>>>>> partner/my-new-change
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
